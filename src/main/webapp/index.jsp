@@ -20,5 +20,8 @@
 	</div>
 	<h4>reset-test1</h4>
 	<p>테스트 추가</p>
+	<ol>
+		<li>넓적당면 추가</li>
+	</ol>
 </body> 
 </html>
