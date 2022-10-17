@@ -12,6 +12,7 @@
 	<ul>
 		<li>제작중</li>
 		<li>제작완료</li>
+		<li>진짜최종</li>
 	</ul>
 </body>
 </html>
