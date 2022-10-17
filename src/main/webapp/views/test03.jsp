@@ -13,13 +13,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 	<a href="#">링크추가</a>
-=======
-	<p>test3에 user1이 추가한 내용
->>>>>>> branch 'master' of https://github.com/bbookk1104/testRepository.git
-=======
 	<p>test3에 user1이 추가한 내용</p>
 	<a href="#">링크는 나도 추가할 수 있어!</a>
 	<a href="#">user2 추가</a>
->>>>>>> branch 'master' of https://github.com/bbookk1104/testRepository.git
+	<a href="#">asdf</a>
 </body>
 </html>
