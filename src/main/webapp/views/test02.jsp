@@ -13,5 +13,6 @@
 	</ul>
 	<h4>푸주추가추가</h4>
 	<h3>test02추가</h3>
+	<a href="/views/test03.jsp">페이지이동</a>
 </body>
 </html>
